@@ -1,0 +1,20 @@
+.footer {
+  text-align: center;
+  background: #050a30;
+  padding: 50px 50px;
+  color: aliceblue;
+}
+.socialIcons {
+  display: flex;
+  align-items: center;
+  color: #fff;
+  justify-content: center;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+}
+.socialIconLink {
+  margin: 10px;
+}
